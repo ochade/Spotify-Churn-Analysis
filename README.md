@@ -1,5 +1,5 @@
  Spotify-Churn-Analysis
- ![Modeling Pipeline](./Spotify_ML_Modeling_Pipeline.png)
+ ![Modeling Pipeline](./Spotify ML Modeling Pipeline.drawio.png)
 A side-by-side comparison of Descriptive Analytics (Power BI) and Predictive Modeling (Logistic Regression) to diagnose and predict subscriber churn for Spotify.
 
 Project Overview
